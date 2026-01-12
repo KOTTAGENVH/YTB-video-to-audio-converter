@@ -1,7 +1,14 @@
-# YTB-video-to-audio-converter
-A basic YouTube video downloader using the ytdl library
+# YTB video to audio converter
+A  YouTube video -> audio downloader using the ytdl library
 >
->>Example:
->
-![image](https://github.com/KOTTAGENVH/Youtube-Video-Downloader/assets/87430226/7479e3af-5e3e-4dcb-b154-8fe339cd3abf)
+>>How to setup:
+```
+#Activate your Python environment (If you are using Anaconda):
+conda active env
+#Install dependencies
+pip install yt-dlp
+#Run the application
+run python app.py
+```
+
 
